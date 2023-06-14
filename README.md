@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfrahFathima M
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning BCA from Madras Christian College
+- 🌱 I’m currently pursuing BCA from Madras Christian College
 - 📫 How to reach me (email: safrah154@gmail.com)
 
 <!---
